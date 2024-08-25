@@ -1,0 +1,17 @@
+.main{
+    border: 7px dotted green;
+    position: absolute;
+    display: flex;
+    padding: 20px;
+}
+.manu{
+    border: 3px solid red;
+    background-color: green;
+    color: white;
+    padding: 60px;
+
+}
+.paragrap{
+    padding: 20px;
+    margin-left: 20px;
+}

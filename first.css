@@ -1,0 +1,77 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    color: #fff;
+    background-color:#15202b;
+}
+.tate{
+   background-color:#00000036;
+   border: 2px solid #58433a;
+   text-align: center;
+}
+.tate h1,h2{
+    color: #FFFFFFBD;
+}
+ol{
+    background-color: #1d2a35;
+}
+.tate2{
+   justify-content: center;
+background-color: black;
+
+}
+
+figure {
+    border: 1px #cccccc solid;
+    padding: 4px;
+    margin: auto;
+  }
+  
+  figcaption {
+    background-color: black;
+    color: white;
+    font-style: italic;
+    padding: 2px;
+ 
+  }
+  button{
+    color: black;
+  }
+  header{
+    background-color: #666;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    padding: 25px;
+  }
+  .sec7{
+
+    width: 100%;
+    border: 2px dotted green;
+  }
+  /* nav{
+    float: left;
+    background-color:#FFFFFFBD ;
+    width: 30%;
+    height: 300px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left:15px;
+      } */
+      nav ul{
+        
+        padding: 0;
+
+      }
+      nav ul li a{
+        color: black;
+        margin-top: 20px;
+    margin-left:15px;
+      }
+      article{
+        margin-left: 30px;
+        width: 70%;
+      }
